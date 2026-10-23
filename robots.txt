@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Domínio atual (Vercel); trocar se for usar domínio próprio
+Sitemap: https://engenharia-dorneles.vercel.app/sitemap.xml
